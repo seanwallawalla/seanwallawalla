@@ -39,73 +39,41 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 # Index
 
-[00.0 - Top](#Top)
-
-> [00.1 - Title](Seanwallawalla-on-GitHub)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#Seanwallawalla)
-
-[02.0 - About](#About)
-
-[03.0 - Identity theft (find me on other platforms)](#Identity-theft)
-
-[04.0 - History](#History)
-
-> [04.1 - Pre-history](#Pre-history)
-
-> [04.2 - Alpha History](#Alpha-history)
-
-> [04.3 - Beta History](#Beta-history)
-
-> [04.4 - Modern History](#Modern-history)
-
-[05.0 - Wiki](#Wiki)
-
-[06.0 - Copying](#Copying)
-
-[07.0 - Credits](#Credits)
-
-[08.0 - Authors](#Authors)
-
-[09.0 - Installation](#Installation)
-
-[10.0 - 404 page](#404-page)
-
-[11.0 - Version history](#Version-history)
-
-[12.0 - Software status](#Software-status)
-
-[13.0 - Sponsor info](#Sponsor-info)
-
-[14.0 - Contributers](#Contributers)
-
-[15.0 - Issues](#Issues)
-
-> [15.1 - Current issues](#Current-issues)
-
-> [15.2 - Past issues](#Past-issues)
-
-> [15.3 - Past pull requests](#Past-pull-requests)
-
-> [15.4 - Active pull requests](#Active-pull-requests)
-
-[16.0 - Resources](#Resources)
-
-[17.0 - Contributing](#Contributing)
-
-[18.0 - About README](#About-README)
-
-[19.0 - README Version history](#README-version-history)
-
-[20.0 - Technical notes](#Technical-notes)
-
-[21.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [21.9 - End of file](#EOF)
+- [00.0 - Top](#Top)
+- - [00.1 - Title](Seanwallawalla-on-GitHub)
+- - [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
+- - [00.3 - Index](#Index)
+- [01.0 - Description](#Seanwallawalla)
+- [02.0 - About](#About)
+- [03.0 - Identity theft (find me on other platforms)](#Identity-theft)
+- [04.0 - Fork notice](#Fork-notice)
+- [04.0 - History](#History)
+- - - [04.1 - Pre-history](#Pre-history)
+- - - [04.2 - Alpha History](#Alpha-history)
+- - - [04.3 - Beta History](#Beta-history)
+- - - [04.4 - Modern History](#Modern-history)
+- [05.0 - Wiki](#Wiki)
+- [06.0 - Copying](#Copying)
+- [07.0 - Credits](#Credits)
+- [08.0 - Authors](#Authors)
+- [09.0 - Installation](#Installation)
+- [10.0 - 404 page](#404-page)
+- [11.0 - Version history](#Version-history)
+- [12.0 - Software status](#Software-status)
+- [13.0 - Sponsor info](#Sponsor-info)
+- [14.0 - Contributers](#Contributers)
+- [15.0 - Issues](#Issues)
+- - [15.1 - Current issues](#Current-issues)
+- - [15.2 - Past issues](#Past-issues)
+- - [15.3 - Past pull requests](#Past-pull-requests)
+- - [15.4 - Active pull requests](#Active-pull-requests)
+- [16.0 - Resources](#Resources)
+- [17.0 - Contributing](#Contributing)
+- [18.0 - About README](#About-README)
+- [19.0 - README Version history](#README-version-history)
+- [20.0 - Technical notes](#Technical-notes)
+- [21.0 - Footer](#You-have-reached-the-end-of-the-README-file)
+- - [21.9 - End of file](#EOF)
 
 ***
 
@@ -199,6 +167,16 @@ Popular platforms I am not on:
 2. I don't have an interest in this type of video platform
 
 Total times I visited TikTok directly (As of Thursday, March 4th 2021): `0` Total times I viewed TikTok content from another platform (reuploads, but not links, as that would be visiting TikTok directly): `85+`
+
+***
+
+## Fork notice
+
+On 2025, Friday, July 11th, I discovered that GitHub has a repository limit for each account. Due to poor clarification prior to clicking the link, I thought that 50,000 was the repository limit, and I got panicked, as my workload wouldn't last the way it is, and I didn't feel like spending time getting rid of my forks. I later found that the actual limit is 100,000. It caused great upset, and I had to shift my strategy. Forks will no longer be done on my main account [:octocat: `@seanpm2001`](https://github.com/seanpm2001/)
+
+Starting 2025, Saturday, July 12th, I have stopped forking repositories from [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) to  [:octocat: `@seanwallawalla`](https://github.com/seanwallawalla/) and will only now do my [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) forks here, increasing the purpose of my alt account. Today (2025, Saturday, July 12th) I forkedf 79 repositories, instead of 50, so that I could reach a multiple of 50 on repositories (6,450)
+
+For reference, see [:octocat: `GitHub Docs:repositories/creating and managing repositories/repository limits`](https://docs.github.com/en/repositories/creating-and-managing-repositories/repository-limits/)
 
 ***
   
@@ -408,11 +386,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 ## About README
 
-File type: `Markdown (*.md)`
-
-File version: `1 (Saturday, 2021 September 11th at 3:28 pm)`
-
-Line count: `0,612`
+- File type: `Markdown document (*.md *.mkd *.mdown *.markdown)`
+- File version: `2 (2025, Saturday, July 12th at 12:17 pm PST)`
+- Line count (including blank lines and compiler line): `0,601`
 
 ***
 
@@ -584,13 +560,26 @@ Version 1 (2021 Saturday September 11th at 3:28 pm)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (2025, Saturday, July 12th at 12:17 pm PST)
+
+> **Note:** _First update in 4 years, there is now more significance on my alt account._
+
+> Changes:
+
+- [x] Added the `Fork notice` section
+- [x] Updated the Index
+- [x] Updated the `File info` section
+- [x] Updated the `File history` section
+- - [x] Added an entry for version 2
+- [ ] No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
 
 ***
 
